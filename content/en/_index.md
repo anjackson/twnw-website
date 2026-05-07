@@ -39,6 +39,7 @@ showHeader: false
 - Reddit: [GarysEconomics](https://www.reddit.com/r/GarysEconomics/)
 {{< /card >}}
 {{< card >}}
+
 ## Garys Reconomics
 
 Recommendations from episodes of Gary Economics
@@ -60,6 +61,8 @@ Recommendations from episodes of Gary Economics
 {{< /card >}}
 {{< card >}}
 
+## Garys Wonkonomics
+
 - Politicians
 	- [Zack Polanski - Wikipedia](https://en.wikipedia.org/wiki/Zack_Polanski) (UK Green Party Leader)
 	- [Chlöe Swarbrick - Wikipedia](https://en.wikipedia.org/wiki/Chl%C3%B6e_Swarbrick) (NZ Green Party Co-Leader)
@@ -70,6 +73,8 @@ Recommendations from episodes of Gary Economics
 
 {{< /card >}}
 {{< card >}}
+
+## Garys Edunomics
 
 - Wealth Tax in general
 	- [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)

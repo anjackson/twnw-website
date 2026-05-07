@@ -11,14 +11,15 @@ showHeader: false
 <h1>TAX WEALTH NOT&nbsp;WORK</h1>
 <p class="intro">
 Learn about wealth inequality.<br>
-Understand the consequences.<br>
+Understand its consequences.<br>
+Explore the solutions.<br>
 Spread the word.
 </p>
 
 </div>
 <div class="column">
 
-{{< spacer 20 >}}
+{{< spacer 40 >}}
 {{< youtube_enhanced id="uMe_j2rr850" >}}
 
 </div>
@@ -39,7 +40,7 @@ Spread the word.
 - [Gary Stevenson (@garyseconomics) / X](https://x.com/garyseconomics)
 - [Gary Stevenson (@garyseconomics.bsky.social) — Bluesky](https://bsky.app/profile/garyseconomics.bsky.social)
 - Reddit: [GarysEconomics](https://www.reddit.com/r/GarysEconomics/)
-- 
+
 {{< /card >}}
 {{< card >}}
 

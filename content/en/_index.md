@@ -10,7 +10,7 @@ showHeader: false
 
 <h1>TAX WEALTH NOT&nbsp;WORK</h1>
 <p class="intro">
-…TBA… <a href="https://www.gov.uk/register-to-vote">vote</a>
+When you choose who to <a href="https://www.gov.uk/register-to-vote">vote</a> for, ask what they're going to tackle weath inequality.
 
 </p>
 
@@ -63,6 +63,8 @@ Recommendations from episodes of Gary Economics
 
 ## Garys Wonkonomics
 
+Politicans and academics mentioned on Garys Economics
+
 - Politicians
 	- [Zack Polanski - Wikipedia](https://en.wikipedia.org/wiki/Zack_Polanski) (UK Green Party Leader)
 	- [Chlöe Swarbrick - Wikipedia](https://en.wikipedia.org/wiki/Chl%C3%B6e_Swarbrick) (NZ Green Party Co-Leader)
@@ -74,10 +76,11 @@ Recommendations from episodes of Gary Economics
 {{< /card >}}
 {{< card >}}
 
-## Garys Edunomics
+## Wealth Edunomics
 
-- Wealth Tax in general
-	- [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)
+Learn more about wealth inequality...
+
+ - [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)
 	- [Why we need to tax wealth - Tax Justice UK](https://taxjustice.uk/blog/why-we-need-to-tax-wealth/)
 		- "In Europe – Spain, Norway and Switzerland have net wealth taxes which enjoy broad support domestically and raise significant sums of money."
 

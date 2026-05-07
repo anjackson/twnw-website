@@ -10,13 +10,15 @@ showHeader: false
 
 <h1>TAX WEALTH NOT&nbsp;WORK</h1>
 <p class="intro">
-When you choose who to <a href="https://www.gov.uk/register-to-vote">vote</a> for, ask what they're going to tackle weath inequality.
-
+Learn about wealth inequality.<br>
+Understand the consequences.<br>
+Spread the word.
 </p>
 
 </div>
 <div class="column">
 
+{{< spacer 20 >}}
 {{< youtube_enhanced id="uMe_j2rr850" >}}
 
 </div>
@@ -26,21 +28,22 @@ When you choose who to <a href="https://www.gov.uk/register-to-vote">vote</a> fo
 {{< cards count=2 >}}
 {{< card >}}
 
-## Garys Economics
+## Gary's Economics
 
 - [Gary's Economics](https://www.wealtheconomics.org/)
-- [Garys Economics - YouTube](https://www.youtube.com/garyseconomics)
 - [garyseconomics | Other Economists make predictions but my ones are actually right | Patreon](https://www.patreon.com/garyseconomics)
-- [Gary's Economics | Facebook](https://www.facebook.com/garyseconomics)
 - [garysecon | Instagram, Facebook, Twitter | Linktree](https://linktr.ee/garysecon)
-- [Instagram](https://www.instagram.com/garyseconomics/)
+- [Garys Economics - YouTube](https://www.youtube.com/garyseconomics)
+- [Gary's Economics | Facebook](https://www.facebook.com/garyseconomics)
+- [Gary Stevenson | Instagram](https://www.instagram.com/garyseconomics/)
 - [Gary Stevenson (@garyseconomics) / X](https://x.com/garyseconomics)
 - [Gary Stevenson (@garyseconomics.bsky.social) — Bluesky](https://bsky.app/profile/garyseconomics.bsky.social)
 - Reddit: [GarysEconomics](https://www.reddit.com/r/GarysEconomics/)
+- 
 {{< /card >}}
 {{< card >}}
 
-## Garys Reconomics
+## Gary's Reconomics
 
 Recommendations from episodes of Gary Economics
 
@@ -61,7 +64,7 @@ Recommendations from episodes of Gary Economics
 {{< /card >}}
 {{< card >}}
 
-## Garys Wonkonomics
+## Gary's Wonkonomics
 
 Politicans and academics mentioned on Garys Economics
 
@@ -80,9 +83,9 @@ Politicans and academics mentioned on Garys Economics
 
 Learn more about wealth inequality...
 
- - [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)
-	- [Why we need to tax wealth - Tax Justice UK](https://taxjustice.uk/blog/why-we-need-to-tax-wealth/)
-		- "In Europe – Spain, Norway and Switzerland have net wealth taxes which enjoy broad support domestically and raise significant sums of money."
+- [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)
+- [Why we need to tax wealth | Tax Justice UK](https://taxjustice.uk/blog/why-we-need-to-tax-wealth/)
+- [Measuring the wealth gap | Fairness Foundation](https://fairnessfoundation.com/risks-2025/measuring-the-wealth-gap)
 
 {{< /card >}}
 {{< /cards >}}

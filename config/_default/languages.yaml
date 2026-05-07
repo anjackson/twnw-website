@@ -2,38 +2,38 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "TWNW"
+  copyright: 'Copyright &copy; {{< current_year >}} TWNW.info. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">'
+  title: "TWNW.info"
   params:
     description: "Site Description"
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+      #help_text: "Accessibility Statement"
+      #help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/example-page/"
+      text: "Register To Vote"
+      link: "https://www.gov.uk/register-to-vote"
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
+      text: "Register To Vote"
+      link: "https://www.gov.uk/register-to-vote"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
     main:
     - identifier: "about"
       name: "About"
-      url: "/example-page/"
+      url: "/about/"
       weight: 1
     - identifier: "faq"
       name: "FAQs"
       url: "/faq/"
       weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 4
+#    - identifier: "blog"
+#      name: "Blog"
+#      url: "/blog/"
+#      weight: 4
 #es:
   # languageName: Spanish
   # contentDir: content/es

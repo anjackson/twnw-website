@@ -40,6 +40,13 @@ Spread the word.
 - [Gary Stevenson (@garyseconomics) / X](https://x.com/garyseconomics)
 - [Gary Stevenson (@garyseconomics.bsky.social) — Bluesky](https://bsky.app/profile/garyseconomics.bsky.social)
 - Reddit: [GarysEconomics](https://www.reddit.com/r/GarysEconomics/)
+- [Gary Stevenson (campaigner) - Wikipedia](https://en.wikipedia.org/wiki/Gary_Stevenson_%28campaigner%29)
+
+
+
+{{< button link="https://www.youtube.com/garyseconomics" text="Follow Gary's Economics on YouTube" >}}
+
+{{< button link="https://www.patreon.com/garyseconomics" text="Join Gary's Economics on Patreon" style="secondary" >}}
 
 {{< /card >}}
 {{< card >}}

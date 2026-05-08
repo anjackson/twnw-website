@@ -4,7 +4,7 @@
 #logo_on_white: "/img/logo-b.svg"
 #logo_on_black: "/img/logo-w.svg"
 custom_js: []
-custom_css: []
+custom_css: [https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css]
 
 ######################## custom config ####################
 

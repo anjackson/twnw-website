@@ -31,16 +31,11 @@ Spread the word.
 
 ## Gary's Economics
 
-- [Gary's Economics](https://www.wealtheconomics.org/)
-- [garyseconomics | Other Economists make predictions but my ones are actually right | Patreon](https://www.patreon.com/garyseconomics)
-- [garysecon | Instagram, Facebook, Twitter | Linktree](https://linktr.ee/garysecon)
-- [Garys Economics - YouTube](https://www.youtube.com/garyseconomics)
-- [Gary's Economics | Facebook](https://www.facebook.com/garyseconomics)
-- [Gary Stevenson | Instagram](https://www.instagram.com/garyseconomics/)
-- [Gary Stevenson (@garyseconomics) / X](https://x.com/garyseconomics)
-- [Gary Stevenson (@garyseconomics.bsky.social) — Bluesky](https://bsky.app/profile/garyseconomics.bsky.social)
-- Reddit: [GarysEconomics](https://www.reddit.com/r/GarysEconomics/)
-- [Gary Stevenson (campaigner) - Wikipedia](https://en.wikipedia.org/wiki/Gary_Stevenson_%28campaigner%29)
+- [Gary's Economics <i class="bi bi-link"></i>](https://www.wealtheconomics.org/)[<i class="bi bi-list-stars"></i>](https://linktr.ee/garysecon) [<i class="bi bi-youtube"></i>](https://www.youtube.com/garyseconomics) [<i class="bi bi-facebook"></i>](https://www.facebook.com/garyseconomics) [<i class="bi bi-instagram"></i>](https://www.instagram.com/garyseconomics/) [<i class="bi bi-twitter"></i>](https://x.com/garyseconomics) [<i class="bi bi-bluesky"></i>](https://bsky.app/profile/garyseconomics.bsky.social)
+
+- [garyseconomics on <i class="bi bi-chat-left-heart-fill"></i> Patreon](https://www.patreon.com/garyseconomics)
+- Reddit: [GarysEconomics <i class="bi bi-reddit"></i>](https://www.reddit.com/r/GarysEconomics/)
+- [Gary Stevenson (campaigner) - Wikipedia <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Gary_Stevenson_%28campaigner%29)
 
 
 
@@ -55,20 +50,10 @@ Spread the word.
 
 Recommendations from episodes of Gary Economics
 
-- Barry's Economics
-	- [Barry's Economics - YouTube](https://www.youtube.com/@barryseconomics)
-	- [Barry's Economics - Podcast - Apple Podcasts](https://podcasts.apple.com/us/podcast/barrys-economics/id1891641005)
-	- [Barry's Economics | Podcast on Spotify](https://open.spotify.com/show/0vgya63dtCFD5tjODr7BEK)
-	- [Barry's Economics — Videos that explore the psychology behind inequality | Patreon](https://www.patreon.com/cw/BarrysEconomics)
-	- [Instagram](https://www.instagram.com/barryseconomics/)
-- Anna Bocca
-	- [Anna Bocca - YouTube](https://www.youtube.com/@annabocca)
-- Jimmy the Giant
-	- [JimmyTheGiant - YouTube](https://www.youtube.com/jimmythegiant)
-- Louisa Munch
-	- [Louisa Munch - Hopp.co page](https://www.hopp.bio/louisa-munch)
-	- [Louisa Munch – Medium](https://medium.com/@louisamunch)
-	- [Instagram](https://www.instagram.com/louisamunchtheory/?hl=en)
+- [Barry's Economics <i class="bi bi-youtube"></i>](https://www.youtube.com/@barryseconomics) [<i class="bi bi-apple"></i>](https://podcasts.apple.com/us/podcast/barrys-economics/id1891641005) [<i class="bi bi-spotify"></i>](https://open.spotify.com/show/0vgya63dtCFD5tjODr7BEK) [<i class="bi bi-chat-left-heart-fill"></i>](https://www.patreon.com/cw/BarrysEconomics) [<i class="bi bi-instagram"></i>](https://www.instagram.com/barryseconomics/)
+- [Anna Bocca <i class="bi bi-youtube"></i>](https://www.youtube.com/@annabocca)
+- [JimmyTheGiant <i class="bi bi-youtube"></i>](https://www.youtube.com/jimmythegiant)
+- [Louisa Munch <i class="bi bi-link"></i>](https://www.hopp.bio/louisa-munch) [<i class="bi bi-medium"></i>](https://medium.com/@louisamunch) [<i class="bi bi-instagram"></i>](https://www.instagram.com/louisamunchtheory/?hl=en)
 {{< /card >}}
 {{< card >}}
 

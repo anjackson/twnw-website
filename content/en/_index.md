@@ -1,6 +1,6 @@
 ---
 title: "Tax Wealth Not Work"
-description: ""
+description: "Wealth inequality and what you can do about it."
 showHeader: false
 ---
 
@@ -12,15 +12,14 @@ showHeader: false
 <p class="intro">
 Learn about wealth inequality.<br>
 Understand its consequences.<br>
-Explore the solutions.<br>
+Explore solutions.<br>
 Spread the word.
 </p>
 
 </div>
 <div class="column">
 
-{{< spacer 40 >}}
-{{< youtube_enhanced id="uMe_j2rr850" >}}
+{{< youtube_enhanced id="uMe_j2rr850" title="'Wealth Inequality in One Minute'" >}}
 
 </div>
 </div>
@@ -48,7 +47,7 @@ Spread the word.
 
 ## Gary's Reconomics
 
-Recommendations from episodes of Gary Economics
+Recommendations for other folks to follow, who were talked about or appeared in episodes of Gary's Economics
 
 - [Barry's Economics <i class="bi bi-youtube"></i>](https://www.youtube.com/@barryseconomics) [<i class="bi bi-apple"></i>](https://podcasts.apple.com/us/podcast/barrys-economics/id1891641005) [<i class="bi bi-spotify"></i>](https://open.spotify.com/show/0vgya63dtCFD5tjODr7BEK) [<i class="bi bi-chat-left-heart-fill"></i>](https://www.patreon.com/cw/BarrysEconomics) [<i class="bi bi-instagram"></i>](https://www.instagram.com/barryseconomics/)
 - [Anna Bocca <i class="bi bi-youtube"></i>](https://www.youtube.com/@annabocca)
@@ -59,15 +58,16 @@ Recommendations from episodes of Gary Economics
 
 ## Gary's Wonkonomics
 
-Politicans and academics mentioned on Garys Economics
+Politicians who support wealth taxes:
 
-- Politicians
-	- [Zack Polanski - Wikipedia](https://en.wikipedia.org/wiki/Zack_Polanski) (UK Green Party Leader)
-	- [Chlöe Swarbrick - Wikipedia](https://en.wikipedia.org/wiki/Chl%C3%B6e_Swarbrick) (NZ Green Party Co-Leader)
-- Academics
-	- [Thomas Piketty - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Piketty)
-	- [Gabriel Zucman - Wikipedia](https://en.wikipedia.org/wiki/Gabriel_Zucman)
-	- [Emmanuel Saez - Wikipedia](https://en.wikipedia.org/wiki/Emmanuel_Saez)
+- [Zack Polanski (UK Green Party Leader) <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Zack_Polanski)
+- [Chlöe Swarbrick (NZ Green Party Co-Leader) <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Chl%C3%B6e_Swarbrick) 
+
+Academics that research wealth taxes:
+
+- [Thomas Piketty <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Thomas_Piketty)
+- [Gabriel Zucman <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Gabriel_Zucman)
+- [Emmanuel Saez <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Emmanuel_Saez)
 
 {{< /card >}}
 {{< card >}}

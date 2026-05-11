@@ -83,3 +83,6 @@ Learn more about wealth inequality...
 {{< /card >}}
 {{< /cards >}}
 
+<!-- GDPR-compliant anonymised analytics -->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="8c7d6ebf-d9a1-4ef6-9e05-1748e3372ffe"></script>
+

@@ -53,6 +53,9 @@ Recommendations for other folks to follow, who were talked about or appeared in 
 - [Anna Bocca <i class="bi bi-youtube"></i>](https://www.youtube.com/@annabocca)
 - [JimmyTheGiant <i class="bi bi-youtube"></i>](https://www.youtube.com/jimmythegiant)
 - [Louisa Munch <i class="bi bi-link"></i>](https://www.hopp.bio/louisa-munch) [<i class="bi bi-medium"></i>](https://medium.com/@louisamunch) [<i class="bi bi-instagram"></i>](https://www.instagram.com/louisamunchtheory/?hl=en)
+
+{{< button link="https://www.gov.uk/register-to-vote" text="Register To Vote" style="secondary" >}}
+
 {{< /card >}}
 {{< card >}}
 
@@ -62,6 +65,7 @@ Politicians who support wealth taxes:
 
 - [Zack Polanski (UK Green Party Leader) <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Zack_Polanski)
 - [Chlöe Swarbrick (NZ Green Party Co-Leader) <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Chl%C3%B6e_Swarbrick) 
+    -  [Podcast with Gary Stevenson: “It's the same fight”](https://youtu.be/6YSYCDVftBo?si=cZGgnc39u21wjlI7) 
 
 Academics that research wealth taxes:
 
@@ -79,6 +83,7 @@ Learn more about wealth inequality...
 - [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)
 - [Why we need to tax wealth | Tax Justice UK](https://taxjustice.uk/blog/why-we-need-to-tax-wealth/)
 - [Measuring the wealth gap | Fairness Foundation](https://fairnessfoundation.com/risks-2025/measuring-the-wealth-gap)
+
 
 {{< /card >}}
 {{< /cards >}}

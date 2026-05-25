@@ -13,9 +13,12 @@ en:
       #help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Register To Vote"
-      link: "https://www.gov.uk/register-to-vote"
+      text: "Go To Gary's Economics"
+      link: "https://wealtheconomics.org/"
     footer_cta:
+      text: "Go To Gary's Economics"
+      link: "https://wealtheconomics.org/"
+    footer_cta_old:
       text: "Register To Vote"
       link: "https://www.gov.uk/register-to-vote"
     github_edit: "Edit this page on GitHub"

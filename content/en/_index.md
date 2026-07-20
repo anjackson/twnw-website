@@ -32,8 +32,8 @@ Spread the word.
 ## Gary's Economics
 
 - [Gary's Economics <i class="bi bi-link"></i>](https://www.wealtheconomics.org/)[<i class="bi bi-list-stars"></i>](https://linktr.ee/garysecon) [<i class="bi bi-youtube"></i>](https://www.youtube.com/garyseconomics) [<i class="bi bi-facebook"></i>](https://www.facebook.com/garyseconomics) [<i class="bi bi-instagram"></i>](https://www.instagram.com/garyseconomics/) [<i class="bi bi-twitter"></i>](https://x.com/garyseconomics) [<i class="bi bi-bluesky"></i>](https://bsky.app/profile/garyseconomics.bsky.social)
-
 - [garyseconomics on <i class="bi bi-chat-left-heart-fill"></i> Patreon](https://www.patreon.com/garyseconomics)
+- [How To Get Filthy Rich | Channel 4](https://www.youtube.com/watch?v=V6hb90czkkY)
 - Reddit: [GarysEconomics <i class="bi bi-reddit"></i>](https://www.reddit.com/r/GarysEconomics/)
 - [Gary Stevenson (campaigner) - Wikipedia <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Gary_Stevenson_%28campaigner%29)
 
@@ -70,8 +70,9 @@ Politicians who support wealth taxes:
 
 Academics that research wealth taxes:
 
-- [Thomas Piketty <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Thomas_Piketty)
 - [Gabriel Zucman <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Gabriel_Zucman)
+  - [Rory Stewart Challenges Gabriel Zucman on Wealth Taxes - YouTube](https://www.youtube.com/watch?v=XSGawIGbZrc)
+- [Thomas Piketty <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Thomas_Piketty)
 - [Emmanuel Saez <i class="bi bi-wikipedia"></i>](https://en.wikipedia.org/wiki/Emmanuel_Saez)
 
 {{< /card >}}
@@ -80,7 +81,7 @@ Academics that research wealth taxes:
 ## Wealth Edunomics
 
 Learn more about wealth inequality...
-
+- [What's the problem? - Garys Economics](https://garyseconomics.org/whats-the-problem/)
 - [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)
 - [Why we need to tax wealth | Tax Justice UK](https://taxjustice.uk/blog/why-we-need-to-tax-wealth/)
 - [Measuring the wealth gap | Fairness Foundation](https://fairnessfoundation.com/risks-2025/measuring-the-wealth-gap)

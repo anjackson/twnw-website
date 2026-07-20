@@ -2,6 +2,7 @@
 title: "Tax Wealth Not Work"
 description: "Wealth inequality and what you can do about it."
 showHeader: false
+layout: single
 ---
 
 

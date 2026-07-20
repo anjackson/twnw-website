@@ -29,14 +29,14 @@ en:
       name: "About"
       url: "/about/"
       weight: 1
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-#    - identifier: "blog"
-#      name: "Blog"
-#      url: "/blog/"
-#      weight: 4
+#    - identifier: "faq"
+#      name: "FAQs"
+#      url: "/faq/"
+#      weight: 3
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 4
 #es:
   # languageName: Spanish
   # contentDir: content/es

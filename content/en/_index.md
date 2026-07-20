@@ -55,8 +55,6 @@ Recommendations for other folks to follow, who were talked about or appeared in 
 - [JimmyTheGiant <i class="bi bi-youtube"></i>](https://www.youtube.com/jimmythegiant)
 - [Louisa Munch <i class="bi bi-link"></i>](https://www.hopp.bio/louisa-munch) [<i class="bi bi-medium"></i>](https://medium.com/@louisamunch) [<i class="bi bi-instagram"></i>](https://www.instagram.com/louisamunchtheory/?hl=en)
 
-{{< button link="https://www.gov.uk/register-to-vote" text="Register To Vote" style="secondary" >}}
-
 {{< /card >}}
 {{< card >}}
 
@@ -90,6 +88,7 @@ Learn more about wealth inequality...
 
 {{< /card >}}
 {{< /cards >}}
+
 
 <!-- GDPR-compliant anonymised analytics -->
 <script defer src="https://cloud.umami.is/script.js" data-website-id="8c7d6ebf-d9a1-4ef6-9e05-1748e3372ffe"></script>

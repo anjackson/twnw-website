@@ -4,3 +4,6 @@ draft = true
 title = 'Introduction'
 +++
 text
+
+
+{{< button link="https://www.gov.uk/register-to-vote" text="Register To Vote" style="secondary" >}}

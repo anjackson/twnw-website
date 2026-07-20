@@ -82,6 +82,7 @@ Academics that research wealth taxes:
 
 Learn more about wealth inequality...
 - [What's the problem? - Garys Economics](https://garyseconomics.org/whats-the-problem/)
+- [Debunking 5 common myths about wealth taxes - Tax Justice UK](https://taxjustice.uk/blog/debunking-5-common-myths-about-wealth-taxes/)
 - [Tax the rich: Why we need a wealth tax in the UK | Oxfam GB](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/tax-the-rich/)
 - [Why we need to tax wealth | Tax Justice UK](https://taxjustice.uk/blog/why-we-need-to-tax-wealth/)
 - [Measuring the wealth gap | Fairness Foundation](https://fairnessfoundation.com/risks-2025/measuring-the-wealth-gap)

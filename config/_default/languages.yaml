@@ -33,10 +33,10 @@ en:
 #      name: "FAQs"
 #      url: "/faq/"
 #      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 4
+#    - identifier: "blog"
+#      name: "Blog"
+#      url: "/blog/"
+#      weight: 4
 #es:
   # languageName: Spanish
   # contentDir: content/es
